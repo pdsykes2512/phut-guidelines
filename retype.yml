@@ -2,8 +2,8 @@ input: .
 output: .retype
 url: https://guidelines.pdsykes.co.uk/
 branding:
-  title: PHUT Clinical Guidelines
-  label: Guidelines
+  title: Clinical Guidelines
+  label: PHUT
 links:
 - text: Getting Started
   link: https://retype.com/guides/getting-started/
