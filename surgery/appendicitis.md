@@ -9,7 +9,7 @@ authors:
 
 This is the single most common surgical emergency and you will see plenty of appendicitis during your times on call. That is not to say that it an easy diagnosis to reach. There is no ‘test’ for appendicitis (other than histology!) and we get the diagnosis wrong around 40% of the time.
 
-=== Presentation
+==- Presentation
 - Central colicky abdominal pain moving to right illiac fossa and becoming constant
 - Anorexia
 - Nausea + vomiting
