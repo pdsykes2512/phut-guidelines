@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.4.1.747780362295">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.4.1.747780624437">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.4.1">
@@ -30,11 +30,11 @@
 
     <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="../../resources/css/retype.css?v=3.4.1.747780362295" rel="stylesheet">
+    <link href="../../resources/css/retype.css?v=3.4.1.747780624437" rel="stylesheet">
 
-    <script data-cfasync="false" src="../../resources/js/config.js?v=3.4.1.747780362295" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/config.js?v=3.4.1.747780624437" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../../resources/js/retype.js?v=3.4.1" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.4.1.747780362295" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.4.1.747780624437" data-turbo-eval="false" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -182,12 +182,9 @@
 </div>
 
 <p>This is the single most common surgical emergency and you will see plenty of appendicitis during your times on call. That is not to say that it an easy diagnosis to reach. There is no ‘test’ for appendicitis (other than histology!) and we get the diagnosis wrong around 40% of the time.</p>
-<doc-anchor-target id="presentation">
-    <h3>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#presentation">#</doc-anchor-trigger>
-        <span>Presentation</span>
-    </h3>
-</doc-anchor-target>
+<doc-panels>
+   <doc-panel id="presentation">
+       <template #title>Presentation</template>
 <ul>
 <li>Central colicky abdominal pain moving to right illiac fossa and becoming constant</li>
 <li>Anorexia</li>
@@ -198,28 +195,24 @@
 <li>Tenderness over McBurney’s point - tenderness over point 1/3 of the way from anterior superior illac spine to umbillicus</li>
 <li>Rovsing’s sign may be positive - palpation in LIF produces pain in the RIF</li>
 </ul>
-<doc-anchor-target id="investigations">
-    <h3>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#investigations">#</doc-anchor-trigger>
-        <span>Investigations</span>
-    </h3>
-</doc-anchor-target>
+   </doc-panel>
+   <doc-panel id="investigations" collapsed>
+       <template #title>Investigations</template>
 <ul>
 <li>Bloods – Grp and save + Clotting (For possible theatre later) FBC, U+Es, LFTS, CRP. Cultures may be useful if also septic</li>
 <li>Urine dip (Make sure to test B-HCG in women)</li>
 <li>Diagnostic laparoscopy is gold standard – appendicitis should be a predominantly clinical decision</li>
 </ul>
-<doc-anchor-target id="management">
-    <h3>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#management">#</doc-anchor-trigger>
-        <span>Management</span>
-    </h3>
-</doc-anchor-target>
+   </doc-panel>
+   <doc-panel id="management" collapsed>
+       <template #title>Management</template>
 <ul>
 <li>If unsure of diagnosis USS abdomen / TVUSS may be useful tool</li>
 <li>CT Abdo / Pelvis if diagnosis not clear</li>
 <li>Diagnostic laparoscopy</li>
 </ul>
+   </doc-panel>
+</doc-panels>
 
                                 
                                 <!-- Required only on API pages -->
