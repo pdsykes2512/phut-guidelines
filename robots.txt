@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: /sitemap.xml.gz
+Sitemap: https://guidelines.pdsykes.co.uk/sitemap.xml.gz
