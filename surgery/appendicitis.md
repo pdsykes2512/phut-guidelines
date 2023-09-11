@@ -1,5 +1,9 @@
 ---
 icon: triangle-right
+authors:
+  - name: Paul Sykes
+    email: paul.sykes@porthosp.nhs.uk
+    link: https://www.pdsykes.co.uk
 ---
 
 # Acute Appendicitis
