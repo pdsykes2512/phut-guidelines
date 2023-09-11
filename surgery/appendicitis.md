@@ -23,4 +23,4 @@ This is the single most common surgical emergency and you will see plenty of app
 - If unsure of diagnosis USS abdomen / TVUSS may be useful tool
 - CT Abdo / Pelvis if diagnosis not clear
 - Diagnostic Laparoscopy
-
++++
