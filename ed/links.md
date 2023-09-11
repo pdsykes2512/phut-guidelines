@@ -1,6 +1,5 @@
 ---
-label: Useful links
-layout: page
 order: 100
+icon: link
 ---
 # Useful links
