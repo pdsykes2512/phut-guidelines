@@ -30,8 +30,7 @@ This is the single most common surgical emergency and you will see plenty of app
 - NBM
 - IV fluids
 - Abx if perforation likely
-- Appendicectomy (Likely to be laparoscopic)
-
+- Laparoscopic appendicectomy
 
 ==- Senior Decision
 - If unsure of diagnosis USS abdomen / TVUSS may be useful tool
