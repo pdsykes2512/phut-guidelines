@@ -25,6 +25,15 @@ This is the single most common surgical emergency and you will see plenty of app
 - Diagnostic laparoscopy is gold standard – appendicitis should be a predominantly clinical decision
 
 ==- Management
+- ABC
+- Analgesia
+- NBM
+- IV fluids
+- Abx if perforation likely
+- Appendicectomy (Likely to be laparoscopic)
+
+
+==- Senior Decision
 - If unsure of diagnosis USS abdomen / TVUSS may be useful tool
 - CT Abdo / Pelvis if diagnosis not clear
 - Diagnostic laparoscopy
