@@ -1,5 +1,5 @@
 ---
-icon: triangle-right
+icon: ":mask:"
 tags:
   - surgery
 #authors:
