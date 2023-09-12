@@ -3,7 +3,7 @@ output: .retype
 url: https://guidelines.pdsykes.co.uk/
 branding:
   title: Clinical Guidelines
-  label: PHUT
+  label: v0.1
 links:
 - text: Home
   link: https://guidelines.pdsykes.co.uk/
