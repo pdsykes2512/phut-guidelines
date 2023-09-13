@@ -1,2 +1,2 @@
-# PHUT Clinical Guidelines
+# Clinical Guidelines
 
