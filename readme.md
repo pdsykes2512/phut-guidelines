@@ -1,5 +1,5 @@
 ---
-icon: "images/hospital.svg"
+icon: "images/hospital.webp"
 ---
 
 # Clinical Guidelines

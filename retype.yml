@@ -5,7 +5,7 @@ favicon: images/hospital.webp
 branding:
   title: Clinical Guidelines
   label: v0.1
-  logo: images/hospital.svg
+  logo: images/hospital.webp
 links:
 - text: Home
   link: https://guidelines.pdsykes.co.uk/
