@@ -6,9 +6,6 @@ branding:
   title: Clinical Guidelines
   label: v0.1
   logo: images/hospital.webp
-  colors:
-    background: "#303030"
-    text: "#ffffff"
 links:
 - text: Home
   link: https://guidelines.pdsykes.co.uk/
