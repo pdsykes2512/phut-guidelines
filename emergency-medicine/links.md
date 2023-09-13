@@ -1,5 +1,5 @@
 ---
 order: 1000
-icon: link
+icon: "/images/link.webp"
 ---
 # Useful links
