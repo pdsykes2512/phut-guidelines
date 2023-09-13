@@ -1,6 +1,7 @@
 input: .
 output: .retype
 url: https://guidelines.pdsykes.co.uk/
+favicon: images/hospital.webp
 branding:
   title: Clinical Guidelines
   label: v0.1
@@ -10,4 +11,3 @@ links:
   link: https://guidelines.pdsykes.co.uk/
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
-favicon: images/hospital.webp
