@@ -4,7 +4,7 @@ url: https://guidelines.pdsykes.co.uk/
 branding:
   title: Clinical Guidelines
   label: v0.1
-  logo: static/hospital.png
+  logo: images/hospital.webp
 links:
 - text: Home
   link: https://guidelines.pdsykes.co.uk/
